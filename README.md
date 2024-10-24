@@ -5,7 +5,7 @@
 Medical cost data insights and Prediction!
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Medical cost data insights and Prediction .app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Medical_cost_data_insights_and_Prediction.app/)
 
 ## GitHub Codespaces
 
